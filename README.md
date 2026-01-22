@@ -1,6 +1,6 @@
 # Mini Vendor Dashboard
 
-A lightweight vendor dashboard for managing services, tracking bookings, and monitoring earnings.
+A lightweight vendor dashboard for managing services, tracking bookings, and monitoring earnings. Watch this video for more details about this project: https://youtu.be/sP36qoSviHE
 
 ## Features
 
